@@ -1,0 +1,12 @@
+﻿  Actividad2.cpp
+  Actividad3.cpp
+  Actividad4.cpp
+  Actividad5.cpp
+  Actividad6.cpp
+  Generando código...
+Actividad2.obj : error LNK2005: ya se definió main en Actividad 1.obj
+Actividad3.obj : error LNK2005: ya se definió main en Actividad 1.obj
+Actividad4.obj : error LNK2005: ya se definió main en Actividad 1.obj
+Actividad5.obj : error LNK2005: ya se definió main en Actividad 1.obj
+Actividad6.obj : error LNK2005: ya se definió main en Actividad 1.obj
+C:\Users\maria\Downloads\EsqueletoAPP\Box2dFirstApp\Build\..\Bin\Debug\Box2dEmptyApp.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente
